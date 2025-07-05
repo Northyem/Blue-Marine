@@ -18,4 +18,16 @@
       }
     ]
   }
+},
+"icon": "icons/Blue-Marine.png",
+  "author": {
+    "name": "Northyem",
+    "email": "yosoyjuanye@gmail.com",
+    "url": "https://github.com/Northyem"
+  },
+  "repository": {
+    "url": "https://github.com/Northyem/Blue-Marine",
+    "type": "git"
+  },
+  "publisher": "Northyem"
 }
